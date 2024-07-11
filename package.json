@@ -1,0 +1,16 @@
+{
+  "name": "KOALearning",
+  "version": "1.0.0",
+  "description": "My learning KOA",
+  "main": "index.js",
+  "repository": "git@github.com:SeedHuang/KOALearning.git",
+  "author": "huangchunhua <huangchunhua@bilibili.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "sh ./start.sh"
+  },
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-mount": "^4.0.0"
+  }
+}
